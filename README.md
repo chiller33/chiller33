@@ -1,4 +1,6 @@
-## Hi there 👋
+
+# Hi there 👋
+
 hi
 
 ## about preetam
@@ -8,10 +10,15 @@ Im Preetam and living in Brussels
 ![cat](./images/pexels-pixabay-104827.jpg)
 
 <!--new changes-->
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+<!--new line-->
+asd
+
 <!--
 **chiller33/chiller33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
