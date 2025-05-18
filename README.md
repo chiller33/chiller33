@@ -3,9 +3,9 @@
 
 hi
 
-## about preetam
+## about me
 
-Im Preetam and living in Brussels
+Im chiller33 and living in Brussels
 
 ![cat](./images/pexels-pixabay-104827.jpg)
 
